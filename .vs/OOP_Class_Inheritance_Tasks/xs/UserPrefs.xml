@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{27F1A111-5AB2-40FC-8B7A-4F9F4118D0B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_Class_Inheritance_Tasks/Program.cs">
+    <Files>
+      <File FileName="OOP_Class_Inheritance_Tasks/Program.cs" Line="135" Column="28" />
+      <File FileName="OOP_Class_Inheritance_Tasks/Book.cs" Line="15" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP_Class_Inheritance_Tasks" expanded="True">
+            <Node name="OOP_Class_Inheritance_Tasks" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OOP__Class__Inheritance__Tasks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
